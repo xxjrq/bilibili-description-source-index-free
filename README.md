@@ -10,7 +10,7 @@
 npx skills add xxjrq/bilibili-description-source-index-free
 ```
 
-这是浏览器 Skill。安装 [Easy WebBridge（GitHub）](https://github.com/Jackwener/OpenCLI)，或使用 [Gitee 备用地址](https://gitee.com/jackwener/OpenCLI)。运行时由用户提供 `browserId`；一项任务只管理自己的 session 和标签组，不接管已有页面。
+这是浏览器 Skill。安装 [Easy WebBridge（GitHub）](https://github.com/xxjrq/easy-webbridge)，或使用 [Gitee 备用地址](https://gitee.com/xxjrq/easy-webbridge)。运行时由用户提供 `browserId`；一项任务只管理自己的 session 和标签组，不接管已有页面。
 
 ## 输入与结果
 

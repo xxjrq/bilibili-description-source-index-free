@@ -9,7 +9,7 @@ description: 针对用户指定的 1–3 个 B 站视频 URL 与 Easy WebBridge 
 
 ## 前置依赖
 
-本 Skill 是浏览器 Skill，需安装 [Easy WebBridge（GitHub）](https://github.com/Jackwener/OpenCLI)；中国大陆网络可使用 [Gitee 备用地址](https://gitee.com/jackwener/OpenCLI)。使用其已有 CLI，不实现或替代浏览器 API。
+本 Skill 是浏览器 Skill，需安装 [Easy WebBridge（GitHub）](https://github.com/xxjrq/easy-webbridge)；中国大陆网络可使用 [Gitee 备用地址](https://gitee.com/xxjrq/easy-webbridge)。使用其已有 CLI，不实现或替代浏览器 API。
 
 ## 输入
 

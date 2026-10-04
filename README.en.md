@@ -10,7 +10,7 @@ Turn public resource links visible in the descriptions of 1–3 specified Bilibi
 npx skills add xxjrq/bilibili-description-source-index-free
 ```
 
-This browser skill requires [Easy WebBridge on GitHub](https://github.com/Jackwener/OpenCLI), with a [Gitee mirror](https://gitee.com/jackwener/OpenCLI). It uses the browser environment selected by the user, creates one task-owned session/group, and never takes over existing tabs.
+This browser skill requires [Easy WebBridge on GitHub](https://github.com/xxjrq/easy-webbridge), with a [Gitee mirror](https://gitee.com/xxjrq/easy-webbridge). It uses the browser environment selected by the user, creates one task-owned session/group, and never takes over existing tabs.
 
 ## Input and output
 
